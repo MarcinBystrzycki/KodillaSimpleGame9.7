@@ -1,0 +1,27 @@
+{
+  "name": "rock-paper-scissors-game",
+  "version": "1.0.0",
+  "description": "simple game for exercise\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[DJS \u001b[2~\u001b[3~\u001b[3~\u001b[3~\u001b[3~\u001b[3~\u001b[C\u001b[C\u001b[D\u001b[Dexercise\u001b[2~",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "grunt"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarcinBystrzycki/KodillaSimpleGame9.7.git"
+  },
+  "keywords": [
+    "grunt"
+  ],
+  "author": "MarcinBystrzycki",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarcinBystrzycki/KodillaSimpleGame9.7/issues"
+  },
+  "homepage": "https://github.com/MarcinBystrzycki/KodillaSimpleGame9.7#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-sass": "^2.0.0"
+  }
+}
